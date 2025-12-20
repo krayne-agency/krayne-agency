@@ -108,7 +108,7 @@ J’accompagne les projets de la <strong>conception</strong> jusqu’au <strong>
 <h2 align="center">📊 Activité & Contributions</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ludolpr72&show_icons=false&hide=issues,prs,stars&count_private=true&include_all_commits=true&theme=nord" />
+  <img src="https://github-readme-stats.vercel.app/api?username=krayne-agency&show_icons=false&hide=issues,prs,stars&count_private=true&include_all_commits=true&theme=nord" />
 </div>
 
 
