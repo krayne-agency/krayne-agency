@@ -103,7 +103,7 @@ J’accompagne les projets de la <strong>conception</strong> jusqu’au <strong>
 
 📧 **Contact professionnel** : [Krayne Agency](mailto:krayneagency@gmail.com)
 
----
+<!-- ---
 
 <h2 align="center">📊 Activité & Contributions</h2>
 
@@ -112,7 +112,7 @@ J’accompagne les projets de la <strong>conception</strong> jusqu’au <strong>
 </div>
 
 
----
+---  -->
 
 <p align="center">
   ⭐ <strong>Krayne Agency</strong> — Un développeur, une vision claire, des solutions durables.
