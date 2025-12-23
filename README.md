@@ -94,25 +94,27 @@ J’accompagne les projets de la <strong>conception</strong> jusqu’au <strong>
   Vous avez un projet, une idée ou un besoin technique ?<br/>
   Je serai ravi d’en discuter.
 </p>
-<!-
- <div align="center">
+
+<!-- <div align="center">
   <a href="https://www.linkedin.com/in/ludovic-leprout-7b1635244/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div> -->
 
-📧 **Contact professionnel** : [Krayne Agency](mailto:krayneagency@gmail.com)
+📧 **Contact professionnel** : [krayneagency](mailto:krayneagency@gmail.com)
 
-<!-- ---
+---
 
 <h2 align="center">📊 Activité & Contributions</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=krayne-agency&show_icons=false&hide=issues,prs,stars&count_private=true&include_all_commits=true&theme=nord" />
+  <img src="https://raw.githubusercontent.com/ludolpr/ludolpr72/master/profile-summary-card-output/nord_bright/1-repos-per-language.svg" />
+  <img src="https://raw.githubusercontent.com/ludolpr/ludolpr72/master/profile-summary-card-output/nord_bright/2-most-commit-language.svg" />
+  <img src="https://raw.githubusercontent.com/ludolpr/ludolpr72/master/profile-summary-card-output/nord_bright/3-stats.svg" />
+  <img src="https://raw.githubusercontent.com/ludolpr/ludolpr72/master/profile-summary-card-output/nord_bright/4-productive-time.svg" />
 </div>
 
-
----  -->
+---
 
 <p align="center">
   ⭐ <strong>Krayne Agency</strong> — Un développeur, une vision claire, des solutions durables.
