@@ -94,8 +94,8 @@ J’accompagne les projets de la <strong>conception</strong> jusqu’au <strong>
   Vous avez un projet, une idée ou un besoin technique ?<br/>
   Je serai ravi d’en discuter.
 </p>
-
-<!-- <div align="center">
+<!-
+ <div align="center">
   <a href="https://www.linkedin.com/in/ludovic-leprout-7b1635244/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
